@@ -10,8 +10,8 @@
 <a href="https://github.com/SaidPereyra">
   <img src="https://img.shields.io/badge/GitHub-SaidPereyra-E5E1E4?style=for-the-badge&logo=github&logoColor=white&labelColor=05070D" alt="GitHub" />
 </a>
-<a href="https://www.instagram.com/said_pereyra">
-  <img src="https://img.shields.io/badge/Instagram-said__pereyra-D0BCFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=05070D" alt="Instagram" />
+<a href="https://www.linkedin.com/in/waldir-said-pereyra-orozco/">
+  <img src="https://img.shields.io/badge/LinkedIn-Waldir%20Said%20Pereyra%20Orozco-D0BCFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070D" alt="LinkedIn" />
 </a>
 
 <br />
@@ -23,22 +23,22 @@
 
 # Said Pereyra
 
-**ES**  
+**ES**
 Desarrollador de software de México enfocado en sistemas web y móviles, herramientas local-first, MVPs SaaS y flujos de desarrollo asistidos por IA.
 
 Construyo software práctico con Laravel, React, React Native, TypeScript, Electron, bases de datos SQL y APIs.
 
-**EN**  
+**EN**
 Software Developer from México focused on web and mobile systems, local-first tools, SaaS MVPs and AI-assisted development workflows.
 
 I build practical software with Laravel, React, React Native, TypeScript, Electron, SQL databases and APIs.
 
 ## Enfoque actual / Current focus
 
-- Midnight Project — workspace desktop modular local-first
-- Archimedes Core — CLI académica local-first / local-first academic CLI
-- DevBuddy — herramientas de productividad developer / developer productivity tooling
-- SaaS / Mobile / Laravel systems
+* Midnight Project — workspace desktop modular local-first
+* Archimedes Core — CLI académica local-first / local-first academic CLI
+* DevBuddy — herramientas de productividad developer / developer productivity tooling
+* SaaS / Mobile / Laravel systems
 
 ## Stack técnico / Tech stack
 
@@ -54,10 +54,10 @@ Laravel · React · React Native · Expo · TypeScript · Electron · SQLite · 
 
 ## Trabajo destacado / Featured work
 
-- [Portafolio personal / Personal portfolio](https://saidpereyra.github.io)
-- Midnight Project
-- Archimedes Core
-- DevBuddy
+* [Portafolio personal / Personal portfolio](https://saidpereyra.github.io)
+* Midnight Project
+* Archimedes Core
+* DevBuddy
 
 ## Midnight Project Preview
 
@@ -76,10 +76,10 @@ Laravel · React · React Native · Expo · TypeScript · Electron · SQLite · 
 
 ## Qué estoy construyendo / What I’m building
 
-**ES**  
+**ES**
 Actualmente estoy explorando software local-first, herramientas developer, flujos académicos y desarrollo práctico asistido por IA para productos web y móviles del mundo real.
 
-**EN**  
+**EN**
 I’m currently exploring local-first software, developer tooling, academic workflows and practical AI-assisted development for real-world web and mobile products.
 
 ---
@@ -94,8 +94,8 @@ I’m currently exploring local-first software, developer tooling, academic work
   <strong>GitHub</strong>
 </a>
 &nbsp;·&nbsp;
-<a href="https://www.instagram.com/said_pereyra">
-  <strong>Instagram</strong>
+<a href="https://www.linkedin.com/in/waldir-said-pereyra-orozco/">
+  <strong>LinkedIn</strong>
 </a>
 
 </div>
