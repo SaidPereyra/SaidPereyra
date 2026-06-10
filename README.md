@@ -59,6 +59,21 @@ Laravel · React · React Native · Expo · TypeScript · Electron · SQLite · 
 - Archimedes Core
 - DevBuddy
 
+## Midnight Project Preview
+
+<div align="center">
+
+<p><strong>English UI</strong></p>
+<img src="./assets/inbox-en.png" alt="Midnight Project inbox view in English" width="85%" />
+
+<br />
+<br />
+
+<p><strong>Interfaz en español</strong></p>
+<img src="./assets/inbox-es.png" alt="Vista de inbox de Midnight Project en español" width="85%" />
+
+</div>
+
 ## Qué estoy construyendo / What I’m building
 
 **ES**  
