@@ -58,6 +58,15 @@ Laravel · React · React Native · Expo · TypeScript · Electron · SQLite · 
 * Midnight Project
 * Archimedes Core
 * DevBuddy
+* [Code Nebula](https://code-nebula-three.vercel.app)
+
+<br />
+
+<div align="center">
+  <a href="https://code-nebula-three.vercel.app/u/SaidPereyra">
+    <img src="https://code-nebula-three.vercel.app/api/widget/SaidPereyra" alt="Code Nebula profile widget" />
+  </a>
+</div>
 
 ## Midnight Project Preview
 
